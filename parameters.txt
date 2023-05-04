@@ -19,3 +19,4 @@ Demand	TW_early	TW_late	TW_service_time	TW_wait_cost
 10	0	100	0	0
 10	0	100	0	0
 10	0	100	0	0
+10	0	100	0	0
